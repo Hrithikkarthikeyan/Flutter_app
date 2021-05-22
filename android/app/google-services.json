@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850281065209",
+    "project_id": "flutter-firebase-login-b3007",
+    "storage_bucket": "flutter-firebase-login-b3007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850281065209:android:021c4e4873607116541028",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850281065209-sa707esg8vgga94ctmvk8rpok7li103l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3pZqFpcF0Ag0BI1-cwG29QnP6c53Hr8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850281065209-sa707esg8vgga94ctmvk8rpok7li103l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
